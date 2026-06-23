@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Christian lohan betim machado
 
-<!--
-**Polenta-fria/Polenta-fria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante e estou aprendendo programação.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+	## Você não pode realmente mudar seu passado, ele é simplesmente a base sobre a qual você deve construir seu futuro
+## Contato
+- E-mail: christian.betim.machado@escola.pr.gov.br
